@@ -1,0 +1,10 @@
+/MongoCrudTest/bin
+/MongoCrudTest/obj
+/packages
+/MongoCrud/obj
+/MongoCrud/bin
+/MongoCrud/packages
+/.vs
+/PublishScripts
+/MongoCrudTest/MongoCrudTest.csproj.user
+/MongoCrudTest/app.config
